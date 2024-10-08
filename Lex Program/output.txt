@@ -1,0 +1,8 @@
+This file contains....
+	5 Capital Letters
+	41 Small Letters 
+	3 No of lines 
+	15 Words
+	2 Numbers 
+	3 Special Charachter
+	52 Total characters

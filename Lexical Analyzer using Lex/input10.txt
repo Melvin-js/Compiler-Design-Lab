@@ -1,0 +1,7 @@
+void main()
+{
+ int a=8;
+ int b=6;
+ int c=a+b;
+ printf("sum %d" c);
+}

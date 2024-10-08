@@ -1,0 +1,4 @@
+The intermediate code:
+T1 := a + b
+T2 := c / d
+T3 := T1 * T2
